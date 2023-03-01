@@ -1,0 +1,16 @@
+
+    @media (min-width: 992px){
+    .navbar-expand-lg .navbar-collapse {
+        display: flex!important;
+        flex-basis: auto;
+        flex-direction: row-reverse;
+        
+    }
+   
+}
+
+.bg-img-slide{
+    background-image: url(./images/img.avif);
+    background-color: #cccccc;
+    position: absolute;
+}
